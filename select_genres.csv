@@ -1,0 +1,457 @@
+,select_genres,col2
+0,Webcomic,0
+1,Love,0
+2,Fashion,0
+3,Cyberpunk,0
+4,Poetry,0
+5,Counselling,0
+6,Menage,0
+7,Romantic,0
+8,France,0
+9,Urban Fantasy,0
+10,Espionage,0
+11,Action,0
+12,How To,0
+13,Academic,0
+14,Ancient History,0
+15,Christianity,0
+16,Young Adult Romance,0
+17,Pakistan,0
+18,Aviation,0
+19,Fairy Tales,0
+20,21st Century,0
+21,Southern,0
+22,School Stories,0
+23,Marvel,0
+24,Storytime,0
+25,Humanities,0
+26,Catholic,0
+27,Lesbian,0
+28,Scandinavian Lite...,0
+29,African American,0
+30,Iran,0
+31,Steampunk,0
+32,Culture,0
+33,Money,0
+34,Adult Fiction,0
+35,Atheism,0
+36,Cults,0
+37,Brazil,0
+38,Roman,0
+39,Fairies,0
+40,Novels,0
+41,Germany,0
+42,Gay Romance,0
+43,Health,0
+44,Detective,0
+45,Horror,0
+46,Ukraine,0
+47,Novella,0
+48,Animals,0
+49,Italian Literature,0
+50,Literature,0
+51,Fantasy,0
+52,Entrepreneurship,0
+53,Demons,0
+54,Science Nature,0
+55,Apocalyptic,0
+56,Urban,0
+57,Finance,0
+58,Shapeshifters,0
+59,Mermaids,0
+60,Historical Mystery,0
+61,Beauty and The Beast,0
+62,Hqn,0
+63,True Story,0
+64,French Revolution,0
+65,Japan,0
+66,Fiction,0
+67,Halloween,0
+68,Buddhism,0
+69,Futuristic,0
+70,Legal Thriller,0
+71,Emergency Services,0
+72,Gay For You,0
+73,Soccer,0
+74,Asian Literature,0
+75,Disability,0
+76,Science Fiction Romance,0
+77,True Crime,0
+78,Military Science Fiction,0
+79,Queer Lit,0
+80,Nigeria,0
+81,Hard Science Fiction,0
+82,Urbanism,0
+83,Asexual,0
+84,Reference,0
+85,British Literature,0
+86,Romanovs,0
+87,Race,0
+88,M M F,0
+89,Realistic Fiction,0
+90,Civil War,0
+91,Holiday,0
+92,Journalism,0
+93,Theology,0
+94,Mystery,0
+95,Muslims,0
+96,Relationships,0
+97,Medieval,0
+98,Unfinished,0
+99,Walking,0
+100,Poland,0
+101,Classic Literature,0
+102,Fighters,0
+103,Amish,0
+104,Literary Criticism,0
+105,China,0
+106,Western Africa,0
+107,Nutrition,0
+108,Speculative Fiction,0
+109,High School,0
+110,Russia,0
+111,Canadian Literature,0
+112,Amazon,0
+113,Clean Romance,0
+114,European History,0
+115,Christian Fiction,0
+116,Mental Illness,0
+117,Regency Romance,0
+118,Physics,0
+119,Comics,0
+120,Adoption,0
+121,Military Fiction,0
+122,European Literature,0
+123,Drama,0
+124,Field Guides,0
+125,Faith,0
+126,Art,0
+127,Young Adult Fantasy,0
+128,Book Club,0
+129,19th Century,0
+130,Personal Development,0
+131,Divorce,0
+132,Firefighters,0
+133,Outdoors,0
+134,Aliens,0
+135,Musicians,0
+136,War,0
+137,Jewish,0
+138,Death,0
+139,Angels,0
+140,Northern Africa,0
+141,Asia,0
+142,Crime,0
+143,Foodie,0
+144,Batman,0
+145,Artificial Intelligence,0
+146,Islam,0
+147,Sustainability,0
+148,Politics,0
+149,Wizards,0
+150,Adult,0
+151,Folklore,0
+152,Philosophy,0
+153,Bisexual,0
+154,Political Science,0
+155,Mmorpg,0
+156,Social Media,0
+157,Scandinavian Literature,0
+158,Leadership,0
+159,India,0
+160,Baseball,0
+161,Spain,0
+162,Russian History,0
+163,Architecture,0
+164,Japanese Literature,0
+165,Communication,0
+166,Anthologies,0
+167,Comedy,0
+168,Games,0
+169,Space,0
+170,Young Adult Contemporary,0
+171,Society,0
+172,Greek Mythology,0
+173,South Africa,0
+174,Bande Dessinée,0
+175,Food and Drink,0
+176,Police,0
+177,Management,0
+178,Science,0
+179,Ireland,0
+180,M M Romance,0
+181,Food Preservation,0
+182,Hockey,0
+183,Star Wars,0
+184,Football,0
+185,World War I,0
+186,Technology,0
+187,Adventure,0
+188,New York,0
+189,Teen,0
+190,Egypt,0
+191,Cozy Mystery,0
+192,Italy,0
+193,Microhistory,0
+194,Gardening,0
+195,Class,0
+196,Juvenile,0
+197,Popular Science,0
+198,Historical Romance,0
+199,Womens Studies,0
+200,Gender Studies,0
+201,Knitting,0
+202,Gay,0
+203,Christmas,0
+204,English History,0
+205,Irish Literature,0
+206,Robots,0
+207,Gaming,0
+208,Magical Realism,0
+209,Comic Book,0
+210,Sequential Art,0
+211,Chapter Books,0
+212,Interracial Romance,0
+213,African American Romance,0
+214,Psychiatry,0
+215,World History,0
+216,Dystopia,0
+217,Law,0
+218,Southern Africa,0
+219,Wolves,0
+220,Currency,0
+221,Cult Classics,0
+222,M F M,0
+223,Music,0
+224,Graphic Novels Comics,0
+225,Nobel Prize,0
+226,Science Fiction Fantasy,0
+227,Urban Studies,0
+228,Sudan,0
+229,American,0
+230,Historical,0
+231,Abuse,0
+232,Spanish Literature,0
+233,Coming Of Age,0
+234,Womens,0
+235,Education,0
+236,Humor,0
+237,World War II,0
+238,Werewolves,0
+239,Uganda,0
+240,Crafts,0
+241,Psychoanalysis,0
+242,Audiobook,0
+243,Tudor Period,0
+244,Pirates,0
+245,Space Opera,0
+246,Psychological Thriller,0
+247,Regency,0
+248,Young Adult Historical Fiction,0
+249,Chick Lit,0
+250,French Literature,0
+251,Government,0
+252,Pop Culture,0
+253,Geology,0
+254,Judaism,0
+255,Eastern Philosophy,0
+256,Writing,0
+257,Fairy Tale Retellings,0
+258,Personal Finance,0
+259,Witches,0
+260,Cuisine,0
+261,Art History,0
+262,Plays,0
+263,Southern Gothic,0
+264,Israel,0
+265,Autobiography,0
+266,Westerns,0
+267,Biography,0
+268,Denmark,0
+269,Poetry Plays,0
+270,Cooking,0
+271,Anthropology,0
+272,Spirituality,0
+273,Ghosts,0
+274,Young Adult,0
+275,Kids,0
+276,Basketball,0
+277,Gothic Romance,0
+278,Retellings,0
+279,Warfare,0
+280,Gothic,0
+281,Neuroscience,0
+282,Magic,0
+283,Design,0
+284,Harlequin,0
+285,Graphic Novels,0
+286,Mystery Thriller,0
+287,Zombies,0
+288,Film,0
+289,Holocaust,0
+290,Erotic Romance,0
+291,American Revolution,0
+292,Fae,0
+293,Linguistics,0
+294,Childrens,0
+295,Paranormal Romance,0
+296,17th Century,0
+297,Canada,0
+298,Alternate History,0
+299,Environment,0
+300,Christian Living,0
+301,Cities,0
+302,Turkish,0
+303,Fostering,0
+304,Superheroes,0
+305,Fantasy Romance,0
+306,Mythology,0
+307,Tv,0
+308,Teachers,0
+309,Post Apocalyptic,0
+310,Dc Comics,0
+311,Greece,0
+312,Urban Planning,0
+313,Dogs,0
+314,American History,0
+315,Gods,0
+316,Eastern Africa,0
+317,Liberia,0
+318,Military Romance,0
+319,Swedish Literature,0
+320,Middle Grade,0
+321,Spy Thriller,0
+322,Biology,0
+323,Womens Fiction,0
+324,Transgender,0
+325,Medical,0
+326,Self Help,0
+327,Nonfiction,0
+328,Activism,0
+329,Short Story Collection,0
+330,Essays,0
+331,Dutch Literature,0
+332,Reverse Harem,0
+333,Military,0
+334,Sports,0
+335,United States,0
+336,Business,0
+337,Time Travel,0
+338,Own,0
+339,Psychology,0
+340,Murder Mystery,0
+341,Romantic Suspense,0
+342,Social Science,0
+343,Dragons,0
+344,New Adult Romance,0
+345,Russian Revolution,0
+346,Academia,0
+347,American Revolutionary War,0
+348,Romance,0
+349,Cultural,0
+350,Food,0
+351,Indian Literature,0
+352,North American Hi...,0
+353,Family,0
+354,College,0
+355,Nordic Noir,0
+356,Ghana,0
+357,Role Playing Games,0
+358,Paranormal,0
+359,Brain,0
+360,18th Century,0
+361,Parenting,0
+362,Historical Fiction,0
+363,Harem,0
+364,Religion,0
+365,Thriller,0
+366,Epic Fantasy,0
+367,Astronomy,0
+368,Social Issues,0
+369,Modern,0
+370,Culinary,0
+371,Military History,0
+372,Economics,0
+373,The United States Of America,0
+374,Travel,0
+375,Geography,0
+376,African Literature,0
+377,Queer,0
+378,Cinderella,0
+379,Latin American,0
+380,Historical Fantasy,0
+381,Medicine,0
+382,Literary Fiction,0
+383,Christian,0
+384,Nature,0
+385,Epic,0
+386,Productivity,0
+387,Christian Non Fiction,0
+388,Dark Fantasy,0
+389,Social Movements,0
+390,Sports Romance,0
+391,Vampires,0
+392,Scotland,0
+393,Victorian,0
+394,Language,0
+395,Read For School,0
+396,Illness,0
+397,Feminism,0
+398,Family Law,0
+399,History,0
+400,Social Justice,0
+401,Couture,0
+402,Native Americans,0
+403,20th Century,0
+404,School,0
+405,Science Fiction,0
+406,Africa,0
+407,Books About Books,0
+408,Survival,0
+409,Australia,0
+410,Comics Manga,0
+411,Collections,0
+412,Plants,0
+413,Poverty,0
+414,Memoir,0
+415,Ecology,0
+416,Sexuality,0
+417,Erotica,0
+418,Media Tie In,0
+419,Contemporary,0
+420,Manga,0
+421,Modern Classics,0
+422,International,0
+423,New Adult,0
+424,Short Stories,0
+425,Mental Health,0
+426,Polyamorous,0
+427,Supernatural,0
+428,Evolution,0
+429,Dark,0
+430,Natural History,0
+431,Biography Memoir,0
+432,Archaeology,0
+433,Cartoon,0
+434,Inspirational,0
+435,Boarding School,0
+436,Criticism,0
+437,Marriage,0
+438,Climate Change,0
+439,Road Trip,0
+440,Presidents,0
+441,Disability Studies,0
+442,High Fantasy,0
+443,Western Romance,0
+444,Suspense,0
+445,Noir,0
+446,Gender,0
+447,Weird Fiction,0
+448,Contemporary Romance,0
+449,Cookbooks,0
+450,Buisness,0
+451,Picture Books,0
+452,Classics,0
+453,Birds,0
+454,Sociology,0
+455,Sweden,0
