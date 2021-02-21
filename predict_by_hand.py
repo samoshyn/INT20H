@@ -171,7 +171,7 @@ def make_predict_hand(pred_df):
             
             #sample_value = data.iloc[pred_id, :]
             data_temp = pred_df.copy()
-            data_temp['url_shape'] = train_info['url_shape'][0]
+            data_temp['url_shape'] = train_info['url_shape'][4]
             data_temp['url_shape'] = data_temp['url_shape'].apply(lambda x: eval(x))
             
             data_temp['height'] = data_temp['url_shape'].apply(lambda x: x[0] if x else None)
