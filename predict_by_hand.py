@@ -181,9 +181,9 @@ def make_predict_hand(pred_df):
             preproc_values = preproc(data_temp)
             
 
-            preproc_value = np.array(preproc_values.iloc[-1, :]).reshape(1, -1)
+            preproc_value = np.array(preproc_values.iloc[0, :]).reshape(1, -1)
             pred = model.predict(preproc_value)
-            if pred<0: pred=np.array([0.1])
+
             st.subheader("**Прогноз сформовано!** Отримані результати наступні:")
             st.write("Очікувана оцінка книги складає ", np.round(pred[0], 2), "балів.")
 
